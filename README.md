@@ -17,7 +17,7 @@
 - 🎓 **Software Developer** with continuous learning.
 - 💡 Passionate about using **software** as a solution for complex problems.
 - 🚀 Always **learning new things**.
-- 🔍 Currently **open for a job opportunity** → [My Resume](https://drive.google.com/file/d/12qAicLZF64_o0SIaga_dU4VHJQrdemUw/view?usp=drive_link).
+- 🔍 Currently **open for a job opportunity** → <a href="https://drive.google.com/file/d/12qAicLZF64_o0SIaga_dU4VHJQrdemUw/view?usp=drive_link" target="_blank">My Resume</a>
 - 🌐 Check out **[My Website](#)** *(Coming soon...)*.
 
 ---
